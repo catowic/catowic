@@ -1,6 +1,6 @@
 Hi Everyone
 
-  I am Catowic and ı am mainly a programmer in Turkiye .
+  I am a 17 years old programmer from Turkiye . I will create some project mainly on physics and geometry . I hope you will like them .
   
   I am using Python , HTML and CSS for my projects .
 
