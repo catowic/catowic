@@ -4,6 +4,8 @@ Hi Everyone
   
   I am using Python , HTML and CSS for my projects .
 
+  I hate Java.
+
   I sometimes use Unreal Engine for game development too .
 
   I'm happy if I was able to help you with my projects .
