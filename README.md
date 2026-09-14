@@ -1,4 +1,4 @@
-# 💜 Hi! I'm Catowic!
+# 🩵 Hi! I'm Catowic!
 
 ![image alt](https://github.com/catowic/catowic/blob/81e1bdc9d4457a752769da0032378255fdd03074/assets/girlslasttour_banner.jpg)
 
