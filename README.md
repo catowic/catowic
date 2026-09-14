@@ -2,21 +2,21 @@
 
 ![image alt](https://github.com/catowic/catowic/blob/81e1bdc9d4457a752769da0032378255fdd03074/assets/girlslasttour_banner.jpg)
 
-> "Learning new things is the greatest adventure in life!" ✨
+> "DOMADOMADOMA!" 
 
 ---
 
 ## 👋 About Me
 
-I'm a Computer Engineering student who enjoys learning, experimenting,
+I'm catowic as you can see.
+I'm a Computer Engineering student who enjoys learning
 and building things with code.
 
-- 🎓 Computer Engineering Student
-- 📍 Istanbul, Türkiye
-- 💻 Interested in Software Development & Algorithms
-- 🤖 Aiming to explore Artificial Intelligence
-- 🎮 Interested in Game Development
-- 🎨 I enjoy Drawing, Sketching & 3D Modelling
+-  Computer Engineering Student
+-  Istanbul, Türkiye
+-  Interested in Software Development
+-  Aiming to explore Artificial Intelligence
+-  Interested in Game Development
 
 ---
 
@@ -75,16 +75,10 @@ programming, algorithms and problem solving.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catowic&show_icons=true&theme=dark&hide_border=false)
-
----
-
 ## 🧩 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/catowic?theme=dark&border_radius=0)](https://leetcode.com/)
 
 ---
 
-✨ Always learning. Always building. Always experimenting.
+✨ Play. Sleep. Repeat.
