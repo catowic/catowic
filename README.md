@@ -1,6 +1,6 @@
 # 💜 Hi! I'm Catowic!
 
-![Profile Banner](girlslastour_banner.jpg)
+![Profile Banner](./girlslastour_banner.jpg)
 
 > "Learning new things is the greatest adventure in life!" ✨
 
