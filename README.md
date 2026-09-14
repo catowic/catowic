@@ -23,15 +23,11 @@ and building things with code.
 ## 💡 My Interests
 
 - Programming & Algorithms
-- Game Development 🎮
-- Artificial Intelligence 🤖
-- Exploring New Technologies
+- Game Development 
+- Artificial Intelligence 
+- Making New Technologies
 - Open Source
-- Drawing & Sketching ✏️
-- 3D Modelling
-- Playing Piano 🎹
-- Practicing Japanese 🇯🇵
-- Learning and Teaching
+- Drawing & Sketching 
 
 ---
 
@@ -45,6 +41,7 @@ and building things with code.
 - Algorithms & Data Structures
 - Game Development
 - Artificial Intelligence
+- Harvard CS50
 
 ---
 
